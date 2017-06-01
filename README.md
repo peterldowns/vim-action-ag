@@ -22,6 +22,7 @@ vmap * <Plug>AgActionVisual
 ```
 
 ### Escape characters
+escape
 There are some special characters used in Ag, like '$' which is treated as the
 end of the line. Most of the time we use literal meaning of these characters.
 You can set escapes for these characters in `g:vim_action_ag_escape_chars`.
